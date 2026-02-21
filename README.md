@@ -1,2 +1,3 @@
-# simple-mobile-app-8qdq
-A mobile application for modern development workflows
+# Simple Mobile App 8Qdq
+
+A mobile application for modern development workflows.
